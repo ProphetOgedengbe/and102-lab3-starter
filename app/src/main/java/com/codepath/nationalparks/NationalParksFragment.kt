@@ -14,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView
 // --------------------------------//
 // CHANGE THIS TO BE YOUR API KEY  //
 // --------------------------------//
-private const val API_KEY = "<YOUR-API-KEY-HERE>"
+private const val API_KEY = "p2tkpL4RIJpT8AVFaagVznjOlzllhbdci8LydkRo"
 
 /*
  * The class for the only fragment in the app, which contains the progress bar,
